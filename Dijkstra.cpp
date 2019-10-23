@@ -4,7 +4,7 @@
 /// -Complexity: O(E+VlogV)
 /// ------------------------
 
-#define INF 1e9
+#define INF 2147483647
 using pii=pair<int, int>;
 
 int n; /// Number of vertexes
